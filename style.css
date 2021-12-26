@@ -1,4 +1,5 @@
 h1 {
-    color: blue;
+    color: rgb(35, 35, 82);
     background-color: rgb(248, 247, 247);
+    text-decoration: underline;
 }
